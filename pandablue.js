@@ -103,4 +103,4 @@ client.on('guildCreate' , async guild => {
   })
 
 
-client.login('ODU1MTcwNzc1MzU3ODQ5NjAw.YMul2Q.FodoNp8vG8zZ8BxAjX5s6A1oCVA')
+client.login('special-token')
