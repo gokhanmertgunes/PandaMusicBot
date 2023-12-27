@@ -1,0 +1,22 @@
+{
+  "name": "pandabotu",
+  "version": "0.0.1",
+  "description": "",
+  "main": "panda.js",
+  "scripts": {
+    "test": "node deneme.js"
+  },
+  "author": "Panda",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "discordjs-ytdl": "^2.2.0",
+    "discordjs-ytdl-advanced": "^0.1.6",
+    "ffmpeg-static": "^4.3.0",
+    "fm": "^0.8.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "ytdl-core": "^4.8.2"
+  }
+}
